@@ -109,4 +109,4 @@ isis是恐怖勢力蔓延最廣的，也是迄今為止手段，軍火，人數�
 這不太可能，對於伊斯蘭形成了幾百年從未有過的危機。願Allah保佑穆斯林們。
 
 
-##### [關於ISIS的介紹](github.com/kapasal/github.hailin/blob/master/ISIS.md)
+##### [關於ISIS的介紹](https://github.com/kapasal/github.hailin/blob/master/ISIS.md)
